@@ -364,3 +364,14 @@ p{
 .imgs{
     max-width: 100%;
 }
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.link_manu{
+    color: #ecf3f8;
+    text-transform: uppercase;
+}
